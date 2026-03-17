@@ -1,0 +1,7 @@
+*.exe
+*.huf
+.cph/
+*.o
+a.out
+*.bmp
+*.jpg
